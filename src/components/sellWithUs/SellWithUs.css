@@ -16,7 +16,7 @@
   width: 1074px;
   height: 604px;
   border-radius: 18px;
-  background: url("/src/assets/banner-2.png"), lightgray 50% / cover no-repeat;
+  background: url("assets/banner-2.png"), lightgray 50% / cover no-repeat;
 }
 .sell-with-us .image button {
   position: absolute;
