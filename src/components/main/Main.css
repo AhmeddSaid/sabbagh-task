@@ -1,0 +1,92 @@
+.main-section {
+  display: flex;
+  width: 1123px;
+  height: 673px;
+  margin: -207px auto 0;
+  padding: 75px 50px;
+  border-radius: 90px 90px 0px 0px;
+  background-color: var(--white-color);
+  gap: 24px;
+}
+.main-section .best-seller {
+  width: 399px;
+  height: 478px;
+  border-radius: 20px;
+  background-color: var(--grey-color);
+}
+.main-section h4 {
+  margin: 27px 0 0 40px;
+}
+.main-section p {
+  margin: 15px 0 0 40px;
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--black-color);
+}
+.main-section .best-seller img {
+  width: 353px;
+  height: 320px;
+  margin: 18px 23px 0;
+  border-radius: 20px;
+}
+.main-section .price {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--red-color);
+}
+.main-section .best-seller .price {
+  margin: 12px 0 16px 148px;
+}
+.main-section .right-group {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+}
+.main-section .strongest-brands {
+  width: 603px;
+  height: 284px;
+  border-radius: 20px;
+  background-color: var(--grey-color);
+}
+.main-section .strongest-brands .items {
+  display: flex;
+  margin: 11px 40px;
+  gap: 47px;
+}
+.main-section .strongest-brands .items div {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.main-section .strongest-brands .items img {
+  width: 143px;
+  height: 143px;
+  border-radius: 20px;
+}
+.main-section .strongest-brands .items .price {
+  margin-left: 20px;
+}
+.main-section .weekly-deals {
+  position: relative;
+  width: 603px;
+  height: 164px;
+  border-radius: 20px;
+  background-color: var(--grey-color);
+}
+.main-section .weekly-deals .details {
+  display: flex;
+  align-items: center;
+  gap: 79px;
+}
+.main-section .weekly-deals .details p {
+  width: 192px;
+  height: 38px;
+}
+.main-section .weekly-deals img {
+  position: absolute;
+  right: 48px;
+  top: 15px;
+  width: 127px;
+  height: 127px;
+  border-radius: 20px;
+}

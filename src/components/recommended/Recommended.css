@@ -1,0 +1,39 @@
+.recommended {
+  margin-top: 118px;
+}
+.recommended .container {
+  display: grid;
+  grid-template-columns: repeat(4, 250px);
+  width: 1090px;
+  margin: 25px auto 0;
+  grid-column-gap: 30px;
+  grid-row-gap: 52px;
+}
+.recommended .container .item img {
+  border-radius: 20px;
+}
+.recommended .container .item p {
+  text-align: center;
+}
+.recommended .view-more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 202px;
+  height: 63px;
+  margin: 37px auto 0;
+  padding: 11px 12px;
+  border: 3px solid var(--red-color);
+  border-radius: 10px;
+  font-size: 34px;
+  font-weight: 700;
+  text-align: center;
+  text-wrap: nowrap;
+  color: var(--red-color);
+  transition: 300ms;
+  cursor: pointer;
+}
+.recommended .view-more:hover {
+  background-color: var(--red-color);
+  color: var(--white-color);
+}

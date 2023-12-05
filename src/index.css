@@ -1,0 +1,79 @@
+/* Global Variables */
+:root {
+  --black-color: #000000;
+  --white-color: #ffffff;
+  --red-color: #d70202;
+  --grey-color: #f5f5f5;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+html {
+  font-family: "Inter";
+  scroll-behavior: smooth;
+}
+
+a {
+  /*Typography stuff*/
+  text-decoration: none;
+}
+
+ul {
+  /*Miscellaneous*/
+  list-style: none;
+}
+/* ScrollBar */
+::-webkit-scrollbar {
+  /*Box model stuff*/
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  /*Box model stuff*/
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  /*Box model stuff*/
+  background-color: var(--black-color);
+}
+
+/* disable mobile tap highlight */
+button {
+  /*Miscellaneous*/
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+.price {
+  /*Typography stuff*/
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--red-color);
+}
+.discount {
+  /*Box model stuff*/
+  width: 49px;
+  height: 22px;
+  margin-left: 16px;
+  padding: 2px 4px 1px 3px;
+  border-radius: 2px;
+  background-color: rgba(255, 0, 168, 0.2);
+  /*Typography stuff*/
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--red-color);
+}
+.main-title,
+.title {
+  /*Typography stuff*/
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--red-color);
+}
+.main-title {
+  /*Typography stuff*/
+  font-size: 28px;
+  text-align: center;
+}

@@ -1,0 +1,32 @@
+.intro {
+  height: 1948px;
+  background-color: var(--black-color);
+  color: var(--white-color);
+}
+.intro .container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 93px;
+  gap: 100px;
+}
+.intro .container .image-holder img {
+  width: 1180px;
+  height: 663px;
+}
+.intro .container .image-holder:nth-child(2) {
+  position: relative;
+}
+.intro .container .image-holder .arrow-left,
+.intro .container .image-holder .arrow-right {
+  position: absolute;
+  top: 291px;
+  cursor: pointer;
+}
+.intro .container .image-holder .arrow-left {
+  left: 15px;
+}
+.intro .container .image-holder .arrow-right {
+  right: 15px;
+}

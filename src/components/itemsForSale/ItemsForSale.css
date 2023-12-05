@@ -1,0 +1,24 @@
+.items-for-sale {
+  width: 1090px;
+  margin: auto;
+}
+.items-for-sale .title {
+  margin-left: 15px;
+}
+.items-for-sale .container {
+  display: grid;
+  grid-template-columns: repeat(4, 250px);
+  grid-column-gap: 37px;
+}
+.items-for-sale .container .item img {
+  margin-top: 25px;
+  border-radius: 20px;
+}
+.items-for-sale .container .item p {
+  margin-top: 20px;
+  text-align: center;
+}
+.items-for-sale .container .item .price {
+  margin-top: 6px;
+  text-align: center;
+}

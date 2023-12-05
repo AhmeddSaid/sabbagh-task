@@ -1,0 +1,13 @@
+.trending-brands {
+  margin-top: 119px;
+}
+.trending-brands .container {
+  display: flex;
+  width: 1137px;
+  height: 345px;
+  margin: 25px auto 0;
+  padding: 20px 29px;
+  border-radius: 5px;
+  background-color: var(--grey-color);
+  gap: 30px;
+}

@@ -1,0 +1,58 @@
+footer {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 532px;
+  margin-top: 120px;
+  padding: 83px 137px 36px 88px;
+  background-color: var(--grey-color);
+}
+footer .container {
+  display: flex;
+}
+footer h5 {
+  margin-bottom: 36px;
+  font-size: 24px;
+  font-weight: 600;
+}
+footer p,
+footer a {
+  font-size: 18px;
+  font-weight: 400;
+}
+footer a {
+  display: block;
+  margin-bottom: 15px;
+  text-decoration: none;
+  color: var(--black-color);
+  cursor: pointer;
+}
+footer a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+footer .company-info p:first-of-type {
+  width: 79px;
+  height: 22px;
+}
+footer .company-info p:last-child {
+  width: 379px;
+  height: 132px;
+  margin-top: 15px;
+}
+footer .useful-links {
+  margin-left: 51px;
+}
+footer .help-support {
+  margin-left: 120px;
+}
+footer .customer-care {
+  margin-left: 110px;
+}
+footer .copyright {
+  position: absolute;
+  bottom: 36px;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}

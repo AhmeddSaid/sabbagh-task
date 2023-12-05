@@ -1,0 +1,54 @@
+.popular-categories {
+  margin-top: 119px;
+}
+.popular-categories .container {
+  display: grid;
+  grid-template-columns: repeat(3, 325px);
+  width: 1044px;
+  height: 217px;
+  margin: 20px auto 0;
+  grid-column-gap: 30px;
+}
+.popular-categories .container .item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 96px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 25px -1px rgba(0, 0, 0, 0.25);
+  gap: 6px;
+}
+.popular-categories .container .item .icons {
+  display: flex;
+  width: 135px;
+  height: 36px;
+}
+.popular-categories .container .item .icons img:not(:nth-child(1)) {
+  margin-left: -5px;
+}
+.popular-categories .container .item .line {
+  width: 1px;
+  height: 74px;
+  background-color: var(--black-color);
+}
+.popular-categories .container .item .text {
+  width: 140px;
+  margin-left: 9px;
+  font-size: 12px;
+  font-weight: 300;
+}
+.popular-categories .container .item .text p:first-child {
+  width: 123px;
+  height: 15px;
+}
+.popular-categories .container .item .text p:last-child {
+  width: 140px;
+  height: 15px;
+}
+.popular-categories .see-all {
+  margin-top: 25px;
+  font-size: 14px;
+  font-weight: 300;
+  text-align: center;
+  cursor: pointer;
+}
