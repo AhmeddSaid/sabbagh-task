@@ -36,11 +36,7 @@ function Header() {
         <div>
           <ul className="user-opt">
             <li>
-              <img
-                src="/src/assets/logo.png"
-                alt="logo"
-                className="logo-icon"
-              />
+              <img src="assets/logo.png" alt="logo" className="logo-icon" />
             </li>
             <li>
               <svg
