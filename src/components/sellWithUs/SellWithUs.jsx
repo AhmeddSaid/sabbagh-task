@@ -5,7 +5,7 @@ function SellWithUs() {
     <div className="sell-with-us">
       <h4 className="main-title">Sell With Sabbagh Group</h4>
       <div>
-        <div className="image" src="/src/assets/banner-2.png" alt="banner">
+        <div className="image">
           <button>Start Now</button>
         </div>
       </div>
