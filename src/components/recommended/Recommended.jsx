@@ -3,7 +3,7 @@ import "./Recommended.css";
 function Recommended() {
   const items = Array.from({ length: 24 }, (_, index) => (
     <div key={index} className="item">
-      <img src="/src/assets/item-1.png" alt="item" />
+      <img src="assets/item-1.png" alt="item" />
       <p>text (Title)</p>
       <p className="price">60$</p>
     </div>

@@ -5,10 +5,10 @@ function TrendingBrands() {
     <div className="trending-brands">
       <h4 className="main-title">Trending Brands</h4>
       <div className="container">
-        <img src="/src/assets/brands-item.png" alt="item" />
-        <img src="/src/assets/brands-item.png" alt="item" />
-        <img src="/src/assets/brands-item.png" alt="item" />
-        <img src="/src/assets/brands-item.png" alt="item" />
+        <img src="assets/brands-item.png" alt="item" />
+        <img src="assets/brands-item.png" alt="item" />
+        <img src="assets/brands-item.png" alt="item" />
+        <img src="assets/brands-item.png" alt="item" />
       </div>
     </div>
   );

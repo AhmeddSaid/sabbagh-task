@@ -6,19 +6,19 @@ function Categories() {
       <h4 className="title">Categories</h4>
       <div className="container">
         <div className="item">
-          <img src="/src/assets/item-1.png" alt="item-1" />
+          <img src="assets/item-1.png" alt="item-1" />
           <p>Electronics & Mobiles</p>
         </div>
         <div className="item">
-          <img src="/src/assets/item-2.png" alt="item-2" />
+          <img src="assets/item-2.png" alt="item-2" />
           <p>Makeup</p>
         </div>
         <div className="item">
-          <img src="/src/assets/item-3.png" alt="item-3" />
+          <img src="assets/item-3.png" alt="item-3" />
           <p>Car Accessories</p>
         </div>
         <div className="item">
-          <img src="/src/assets/item-4.png" alt="item-4" />
+          <img src="assets/item-4.png" alt="item-4" />
           <p>Furniture</p>
         </div>
         <div className="arrow-right">

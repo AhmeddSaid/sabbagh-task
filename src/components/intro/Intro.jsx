@@ -7,7 +7,7 @@ function Intro() {
       <Header />
       <div className="container">
         <div className="image-holder">
-          <img src="/src/assets/image-1.jpeg" alt="image-1" />
+          <img src="assets/image-1.jpeg" alt="image-1" />
         </div>
         <div className="image-holder">
           <span className="arrow-left">
@@ -25,7 +25,7 @@ function Intro() {
               />
             </svg>
           </span>
-          <img src="/src/assets/image-2.jpeg" alt="image-2" />
+          <img src="assets/image-2.jpeg" alt="image-2" />
           <span className="arrow-right">
             <svg
               xmlns="http://www.w3.org/2000/svg"

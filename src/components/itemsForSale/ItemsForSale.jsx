@@ -6,7 +6,7 @@ function ItemsForSale() {
       <h4 className="title">Items For Sale</h4>
       <div className="container">
         <div className="item">
-          <img src="/src/assets/item-1.png" alt="item" />
+          <img src="assets/item-1.png" alt="item" />
           <p>text (Title)</p>
           <div className="price">
             <span>
@@ -15,7 +15,7 @@ function ItemsForSale() {
           </div>
         </div>
         <div className="item">
-          <img src="/src/assets/item-1.png" alt="item" />
+          <img src="assets/item-1.png" alt="item" />
           <p>text (Title)</p>
           <div className="price">
             <span>
@@ -24,7 +24,7 @@ function ItemsForSale() {
           </div>
         </div>
         <div className="item">
-          <img src="/src/assets/item-1.png" alt="item" />
+          <img src="assets/item-1.png" alt="item" />
           <p>text (Title)</p>
           <div className="price">
             <span>
@@ -33,7 +33,7 @@ function ItemsForSale() {
           </div>
         </div>
         <div className="item">
-          <img src="/src/assets/item-1.png" alt="item" />
+          <img src="assets/item-1.png" alt="item" />
           <p>text (Title)</p>
           <div className="price">
             <span>
@@ -42,7 +42,7 @@ function ItemsForSale() {
           </div>
         </div>
         <div className="item">
-          <img src="/src/assets/item-1.png" alt="item" />
+          <img src="assets/item-1.png" alt="item" />
           <p>text (Title)</p>
           <div className="price">
             <span>
@@ -51,7 +51,7 @@ function ItemsForSale() {
           </div>
         </div>
         <div className="item">
-          <img src="/src/assets/item-1.png" alt="item" />
+          <img src="assets/item-1.png" alt="item" />
           <p>text (Title)</p>
           <div className="price">
             <span>
@@ -60,7 +60,7 @@ function ItemsForSale() {
           </div>
         </div>
         <div className="item">
-          <img src="/src/assets/item-1.png" alt="item" />
+          <img src="assets/item-1.png" alt="item" />
           <p>text (Title)</p>
           <div className="price">
             <span>
@@ -69,7 +69,7 @@ function ItemsForSale() {
           </div>
         </div>
         <div className="item">
-          <img src="/src/assets/item-1.png" alt="item" />
+          <img src="assets/item-1.png" alt="item" />
           <p>text (Title)</p>
           <div className="price">
             <span>

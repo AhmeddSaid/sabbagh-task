@@ -7,10 +7,10 @@ function PopularCategories() {
       <div className="container">
         <div className="item">
           <div className="icons">
-            <img src="/src/assets/apple.svg" alt="brand" />
-            <img src="/src/assets/beats.svg" alt="brand" />
-            <img src="/src/assets/samsung.svg" alt="brand" />
-            <img src="/src/assets/lg.svg" alt="brand" />
+            <img src="assets/apple.svg" alt="brand" />
+            <img src="assets/beats.svg" alt="brand" />
+            <img src="assets/samsung.svg" alt="brand" />
+            <img src="assets/lg.svg" alt="brand" />
           </div>
           <div className="line"></div>
           <div className="text">
@@ -20,10 +20,10 @@ function PopularCategories() {
         </div>
         <div className="item">
           <div className="icons">
-            <img src="/src/assets/apple.svg" alt="brand" />
-            <img src="/src/assets/beats.svg" alt="brand" />
-            <img src="/src/assets/samsung.svg" alt="brand" />
-            <img src="/src/assets/lg.svg" alt="brand" />
+            <img src="assets/apple.svg" alt="brand" />
+            <img src="assets/beats.svg" alt="brand" />
+            <img src="assets/samsung.svg" alt="brand" />
+            <img src="assets/lg.svg" alt="brand" />
           </div>
           <div className="line"></div>
           <div className="text">
@@ -33,10 +33,10 @@ function PopularCategories() {
         </div>
         <div className="item">
           <div className="icons">
-            <img src="/src/assets/apple.svg" alt="brand" />
-            <img src="/src/assets/beats.svg" alt="brand" />
-            <img src="/src/assets/samsung.svg" alt="brand" />
-            <img src="/src/assets/lg.svg" alt="brand" />
+            <img src="assets/apple.svg" alt="brand" />
+            <img src="assets/beats.svg" alt="brand" />
+            <img src="assets/samsung.svg" alt="brand" />
+            <img src="assets/lg.svg" alt="brand" />
           </div>
           <div className="line"></div>
           <div className="text">
@@ -46,10 +46,10 @@ function PopularCategories() {
         </div>
         <div className="item">
           <div className="icons">
-            <img src="/src/assets/apple.svg" alt="brand" />
-            <img src="/src/assets/beats.svg" alt="brand" />
-            <img src="/src/assets/samsung.svg" alt="brand" />
-            <img src="/src/assets/lg.svg" alt="brand" />
+            <img src="assets/apple.svg" alt="brand" />
+            <img src="assets/beats.svg" alt="brand" />
+            <img src="assets/samsung.svg" alt="brand" />
+            <img src="assets/lg.svg" alt="brand" />
           </div>
           <div className="line"></div>
           <div className="text">
@@ -59,10 +59,10 @@ function PopularCategories() {
         </div>
         <div className="item">
           <div className="icons">
-            <img src="/src/assets/apple.svg" alt="brand" />
-            <img src="/src/assets/beats.svg" alt="brand" />
-            <img src="/src/assets/samsung.svg" alt="brand" />
-            <img src="/src/assets/lg.svg" alt="brand" />
+            <img src="assets/apple.svg" alt="brand" />
+            <img src="assets/beats.svg" alt="brand" />
+            <img src="assets/samsung.svg" alt="brand" />
+            <img src="assets/lg.svg" alt="brand" />
           </div>
           <div className="line"></div>
           <div className="text">
@@ -72,10 +72,10 @@ function PopularCategories() {
         </div>
         <div className="item">
           <div className="icons">
-            <img src="/src/assets/apple.svg" alt="brand" />
-            <img src="/src/assets/beats.svg" alt="brand" />
-            <img src="/src/assets/samsung.svg" alt="brand" />
-            <img src="/src/assets/lg.svg" alt="brand" />
+            <img src="assets/apple.svg" alt="brand" />
+            <img src="assets/beats.svg" alt="brand" />
+            <img src="assets/samsung.svg" alt="brand" />
+            <img src="assets/lg.svg" alt="brand" />
           </div>
           <div className="line"></div>
           <div className="text">
